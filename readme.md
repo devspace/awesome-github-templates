@@ -13,6 +13,8 @@
 
 ## :bomb: Templates for Issues
 
+An awesome issue template is one that informs contributors how to proceed in a very detailed or unique way.
+
 * [angular-translate/angular-translate](https://github.com/angular-translate/angular-translate/blob/master/ISSUE_TEMPLATE.md)
 * [appium/appium](https://github.com/appium/appium/blob/master/.github/ISSUE_TEMPLATE.md)
 * [bchavez/rethinkdb.driver](https://github.com/bchavez/RethinkDb.Driver/blob/master/.github/ISSUE_TEMPLATE.md)
