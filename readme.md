@@ -11,6 +11,10 @@
 * [Creating an issue template for your repository](https://help.github.com/articles/creating-an-issue-template-for-your-repository/)
 * [Creating a pull request template for your repository](https://help.github.com/articles/creating-a-pull-request-template-for-your-repository/)
 
+## :hammer: Template Generators
+
+* [Issue and Pull Request Template Generator featuring Cthulhu and Lewis Carroll](https://www.talater.com/open-source-templates/)
+
 ## :bomb: Templates for Issues
 
 * [angular-translate/angular-translate](https://github.com/angular-translate/angular-translate/blob/master/ISSUE_TEMPLATE.md)
