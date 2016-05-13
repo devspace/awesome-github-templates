@@ -24,8 +24,7 @@
 * [polymer/polymer](https://github.com/Polymer/polymer/blob/master/.github/ISSUE_TEMPLATE.md)
 * [theos/theos](https://github.com/theos/theos/blob/master/.github/ISSUE_TEMPLATE.md)
 * [urigo/angular-meteor](https://github.com/Urigo/angular-meteor/blob/master/.github/ISSUE_TEMPLATE.md)
-* 
-
+* [sindresorhus/ava](https://raw.githubusercontent.com/sindresorhus/ava/master/.github/issue_template.md)
 
 > [Find more `ISSUE_TEMPLATE.md` files](https://github.com/search?utf8=%E2%9C%93&q=in%3Apath+issue_template.md&type=Code&ref=searchresults)
 
