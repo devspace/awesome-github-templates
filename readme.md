@@ -20,9 +20,12 @@
 * [driftyco/ionic](https://github.com/driftyco/ionic/blob/master/.github/ISSUE_TEMPLATE.md)
 * [eddyverbruggen/toast-phonegap-plugin](https://github.com/EddyVerbruggen/Toast-PhoneGap-Plugin/blob/master/issue_template.md)
 * [growcss/growcss](https://github.com/growcss/growcss/blob/develop/.github/ISSUE_TEMPLATE.md)
+* [PhoneGap/toast-plugin](https://github.com/EddyVerbruggen/Toast-PhoneGap-Plugin/blob/master/issue_template.md)
 * [polymer/polymer](https://github.com/Polymer/polymer/blob/master/.github/ISSUE_TEMPLATE.md)
 * [theos/theos](https://github.com/theos/theos/blob/master/.github/ISSUE_TEMPLATE.md)
 * [urigo/angular-meteor](https://github.com/Urigo/angular-meteor/blob/master/.github/ISSUE_TEMPLATE.md)
+* 
+
 
 > [Find more `ISSUE_TEMPLATE.md` files](https://github.com/search?utf8=%E2%9C%93&q=in%3Apath+issue_template.md&type=Code&ref=searchresults)
 
