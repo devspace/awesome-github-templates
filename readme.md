@@ -41,7 +41,7 @@
 * [go-sql-driver/mysql](https://github.com/go-sql-driver/mysql/blob/master/PULL_REQUEST_TEMPLATE.md)
 * [theos/theos](https://github.com/theos/theos/blob/master/.github/PULL_REQUEST_TEMPLATE.md)
 * [urigo/angular-meteor](https://github.com/Urigo/angular-meteor/blob/master/.github/PULL_REQUEST_TEMPLATE.md)
-* [matteocrippa/awesome-swift](https://github.com/matteocrippa/awesome-swift/blob/master/PULL_REQUEST_TEMPLATE)
+* [matteocrippa/awesome-swift](https://github.com/matteocrippa/awesome-swift/blob/master/.github/PULL_REQUEST_TEMPLATE)
  
 > [Find more `PULL_REQUEST_TEMPLATE.md` files](https://github.com/search?utf8=%E2%9C%93&q=in%3Apath+pull_request_template.md&type=Code&ref=searchresults)
 
