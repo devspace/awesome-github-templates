@@ -1,8 +1,8 @@
-# Awesome GitHub Issues/PRs Templates [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+# Awesome GitHub Issues & PRs Templates [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 > [GitHub listened](https://github.com/dear-github/dear-github) and now we're able to [create templates for issues and pull requests](https://github.com/blog/2111-issue-and-pull-request-templates).
 
-> This is a curated list of templates that can offer inspiration for your project ;)
+> This is a curated list of templates that can offer inspiration for your project. An awesome template is one that informs contributors how to proceed in a very detailed or unique way.
 
 ![Preview](https://cloud.githubusercontent.com/assets/398893/13154626/b670c3ba-d62e-11e5-8d0d-8313abf2a8a7.png)
 
@@ -11,13 +11,7 @@
 * [Creating an issue template for your repository](https://help.github.com/articles/creating-an-issue-template-for-your-repository/)
 * [Creating a pull request template for your repository](https://help.github.com/articles/creating-a-pull-request-template-for-your-repository/)
 
-## :hammer: Template Generators
-
-* [Issue and Pull Request Template Generator featuring Cthulhu and Lewis Carroll](https://www.talater.com/open-source-templates/)
-
 ## :bomb: Templates for Issues
-
-An awesome issue template is one that informs contributors how to proceed in a very detailed or unique way.
 
 * [angular-translate/angular-translate](https://github.com/angular-translate/angular-translate/blob/master/ISSUE_TEMPLATE.md)
 * [appium/appium](https://github.com/appium/appium/blob/master/.github/ISSUE_TEMPLATE.md)
@@ -45,6 +39,10 @@ An awesome issue template is one that informs contributors how to proceed in a v
 * [urigo/angular-meteor](https://github.com/Urigo/angular-meteor/blob/master/.github/PULL_REQUEST_TEMPLATE.md)
 
 > [Find more `PULL_REQUEST_TEMPLATE.md` files](https://github.com/search?utf8=%E2%9C%93&q=in%3Apath+pull_request_template.md&type=Code&ref=searchresults)
+
+## :hammer: Template Generators
+
+* [Issue and Pull Request Template Generator featuring Cthulhu and Lewis Carroll](https://www.talater.com/open-source-templates/)
 
 ## :pencil: License
 
