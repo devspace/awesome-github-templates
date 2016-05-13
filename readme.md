@@ -45,4 +45,4 @@
 
 ## :pencil: License
 
-[Public Domain](https://creativecommons.org/publicdomain/zero/1.0/), [Zeno Rocha](http://github.com/zenorocha)
+[Public Domain](https://creativecommons.org/publicdomain/zero/1.0/), [Zeno Rocha](https://github.com/zenorocha)
