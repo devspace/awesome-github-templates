@@ -43,6 +43,10 @@
 
 * [Issue and Pull Request Template Generator featuring Cthulhu and Lewis Carroll](https://www.talater.com/open-source-templates/)
 
+## :grimacing: Template Collections
+
+* [github-issue-templates](https://github.com/stevemao/github-issue-templates)
+
 ## :pencil: License
 
 [Public Domain](https://creativecommons.org/publicdomain/zero/1.0/), [Zeno Rocha](https://github.com/zenorocha)
