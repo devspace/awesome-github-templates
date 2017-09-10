@@ -13,7 +13,7 @@
 
 ## :bomb: Templates for Issues
 
-* [angular-translate/angular-translate](https://github.com/angular-translate/angular-translate/blob/master/ISSUE_TEMPLATE.md)
+* [angular-translate/angular-translate](https://github.com/angular-translate/angular-translate/blob/master/.github/ISSUE_TEMPLATE.md)
 * [appium/appium](https://github.com/appium/appium/blob/master/.github/ISSUE_TEMPLATE.md)
 * [bchavez/rethinkdb.driver](https://github.com/bchavez/RethinkDb.Driver/blob/master/.github/ISSUE_TEMPLATE.md)
 * [codeforamerica/howto](https://github.com/codeforamerica/howto/blob/master/issue_template.md)
@@ -23,17 +23,17 @@
 * [polymer/polymer](https://github.com/Polymer/polymer/blob/master/.github/ISSUE_TEMPLATE.md)
 * [theos/theos](https://github.com/theos/theos/blob/master/.github/ISSUE_TEMPLATE.md)
 * [urigo/angular-meteor](https://github.com/Urigo/angular-meteor/blob/master/.github/ISSUE_TEMPLATE.md)
-* [sindresorhus/ava](https://raw.githubusercontent.com/sindresorhus/ava/master/.github/issue_template.md)
+* [sindresorhus/ava](https://github.com/avajs/ava/blob/master/.github/issue_template.md)
 
 > [Find more `ISSUE_TEMPLATE.md` files](https://github.com/search?utf8=%E2%9C%93&q=in%3Apath+issue_template.md&type=Code&ref=searchresults)
 
 ## :rocket: Templates for Pull Requests
 
-* [angular-translate/angular-translate](https://github.com/angular-translate/angular-translate/blob/master/PULL_REQUEST_TEMPLATE.md)
+* [angular-translate/angular-translate](https://github.com/angular-translate/angular-translate/blob/master/.github/PULL_REQUEST_TEMPLATE.md)
 * [appium/appium](https://github.com/appium/appium/blob/master/.github/PULL_REQUEST_TEMPLATE.md)
 * [bchavez/rethinkdb.driver](https://github.com/bchavez/RethinkDb.Driver/blob/master/.github/PULL_REQUEST_TEMPLATE.md)
 * [driftyco/ionic](https://github.com/driftyco/ionic/blob/master/.github/PULL_REQUEST_TEMPLATE.md)
-* [go-sql-driver/mysql](https://github.com/go-sql-driver/mysql/blob/master/PULL_REQUEST_TEMPLATE.md)
+* [go-sql-driver/mysql](https://github.com/go-sql-driver/mysql/blob/master/.github/PULL_REQUEST_TEMPLATE.md)
 * [theos/theos](https://github.com/theos/theos/blob/master/.github/PULL_REQUEST_TEMPLATE.md)
 * [urigo/angular-meteor](https://github.com/Urigo/angular-meteor/blob/master/.github/PULL_REQUEST_TEMPLATE.md)
 
