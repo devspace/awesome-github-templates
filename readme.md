@@ -15,7 +15,7 @@
 
 * [angular-translate/angular-translate](https://github.com/angular-translate/angular-translate/blob/master/.github/ISSUE_TEMPLATE.md)
 * [appium/appium](https://github.com/appium/appium/blob/master/.github/ISSUE_TEMPLATE.md)
-* [bchavez/rethinkdb.driver](https://github.com/bchavez/RethinkDb.Driver/blob/master/.github/ISSUE_TEMPLATE.md)
+* [bchavez/rethinkdb.driver](https://github.com/bchavez/RethinkDb.Driver/tree/master/.github/ISSUE_TEMPLATE)
 * [codeforamerica/howto](https://github.com/codeforamerica/howto/blob/master/issue_template.md)
 * [driftyco/ionic](https://github.com/driftyco/ionic/blob/master/.github/ISSUE_TEMPLATE.md)
 * [eddyverbruggen/toast-phonegap-plugin](https://github.com/EddyVerbruggen/Toast-PhoneGap-Plugin/blob/master/issue_template.md)
