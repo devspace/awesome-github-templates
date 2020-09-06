@@ -47,6 +47,10 @@
 
 * [github-issue-templates](https://github.com/stevemao/github-issue-templates)
 
+## :toolbox: Tools
+
+* [Pull Request Badge](https://pullrequestbadge.com/) Programatically insert badges in your pull request descriptions and then link them to anything.
+
 ## :pencil: License
 
 [Public Domain](https://creativecommons.org/publicdomain/zero/1.0/), [Zeno Rocha](https://github.com/zenorocha)
