@@ -24,6 +24,10 @@
 * [theos/theos](https://github.com/theos/theos/blob/master/.github/ISSUE_TEMPLATE.md)
 * [urigo/angular-meteor](https://github.com/Urigo/angular-meteor/blob/master/.github/ISSUE_TEMPLATE.md)
 * [sindresorhus/ava](https://github.com/avajs/ava/blob/master/.github/issue_template.md)
+* [vgpena/gh-docs-boilerplate](https://github.com/vgpena/gh-docs-boilerplate/)
+  * [bug](https://github.com/vgpena/gh-docs-boilerplate/blob/master/.github/ISSUE_TEMPLATE/bug.md)
+  * [change](https://github.com/vgpena/gh-docs-boilerplate/blob/master/.github/ISSUE_TEMPLATE/change.md)
+  * [feature](https://github.com/vgpena/gh-docs-boilerplate/blob/master/.github/ISSUE_TEMPLATE/feature.md)
 
 > [Find more `ISSUE_TEMPLATE.md` files](https://github.com/search?utf8=%E2%9C%93&q=in%3Apath+issue_template.md&type=Code&ref=searchresults)
 
@@ -36,6 +40,7 @@
 * [go-sql-driver/mysql](https://github.com/go-sql-driver/mysql/blob/master/.github/PULL_REQUEST_TEMPLATE.md)
 * [theos/theos](https://github.com/theos/theos/blob/master/.github/PULL_REQUEST_TEMPLATE.md)
 * [urigo/angular-meteor](https://github.com/Urigo/angular-meteor/blob/master/.github/PULL_REQUEST_TEMPLATE.md)
+* [vgpena/gh-docs-boilerplate](https://github.com/vgpena/gh-docs-boilerplate/blob/master/.github/pull_request_template.md)
 
 > [Find more `PULL_REQUEST_TEMPLATE.md` files](https://github.com/search?utf8=%E2%9C%93&q=in%3Apath+pull_request_template.md&type=Code&ref=searchresults)
 
