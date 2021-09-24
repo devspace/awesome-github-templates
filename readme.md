@@ -30,12 +30,14 @@
 ## :rocket: Templates for Pull Requests
 
 * [angular-translate/angular-translate](https://github.com/angular-translate/angular-translate/blob/master/.github/PULL_REQUEST_TEMPLATE.md)
+* [apache/jmeter](https://github.com/apache/jmeter/blob/master/PULL_REQUEST_TEMPLATE.md)
 * [appium/appium](https://github.com/appium/appium/blob/master/.github/PULL_REQUEST_TEMPLATE.md)
 * [bchavez/rethinkdb.driver](https://github.com/bchavez/RethinkDb.Driver/blob/master/.github/PULL_REQUEST_TEMPLATE.md)
 * [driftyco/ionic](https://github.com/driftyco/ionic/blob/master/.github/PULL_REQUEST_TEMPLATE.md)
 * [go-sql-driver/mysql](https://github.com/go-sql-driver/mysql/blob/master/.github/PULL_REQUEST_TEMPLATE.md)
 * [theos/theos](https://github.com/theos/theos/blob/master/.github/PULL_REQUEST_TEMPLATE.md)
 * [urigo/angular-meteor](https://github.com/Urigo/angular-meteor/blob/master/.github/PULL_REQUEST_TEMPLATE.md)
+
 
 > [Find more `PULL_REQUEST_TEMPLATE.md` files](https://github.com/search?utf8=%E2%9C%93&q=in%3Apath+pull_request_template.md&type=Code&ref=searchresults)
 
