@@ -37,7 +37,7 @@
 * [theos/theos](https://github.com/theos/theos/blob/master/.github/PULL_REQUEST_TEMPLATE.md)
 * [urigo/angular-meteor](https://github.com/Urigo/angular-meteor/blob/master/.github/PULL_REQUEST_TEMPLATE.md)
 
-> [Find more `PULL_REQUEST_TEMPLATE.md` files](https://github.com/search?utf8=%E2%9C%93&q=in%3Apath+pull_request_template.md&type=Code&ref=searchresults)
+> [Find more `PULL_REQUEST_TEMPLATE.md` files](https://github.com/search?utf8=%E2%9C%93&q=path%3A%2F%28%5E%7C%5C%2F%29pull_request_template%5C.md%24%2F&type=code&ref=searchresults)
 
 ## :hammer: Template Generators
 
